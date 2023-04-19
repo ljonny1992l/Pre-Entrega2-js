@@ -2,12 +2,12 @@
 
     background-color: burlywood;
     border: 2px;
-    margin: 50px;
+ margin: 50px;
 }
 
 .titulo {
 
- text-align: center;
- font-size:100px;
+text-align: center;
+font-size:100px;
 font: bold;
 }
